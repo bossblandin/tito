@@ -1,0 +1,72 @@
+/* page 3 to 5 */
+body {
+      margin: 0;
+      font-family: Arial,
+      background-color: #f8f9fa;
+      line-height: 1.6;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      color: white;
+      text-align: center;
+      background-color: #1f2937;
+      padding: 20px;
+      margin: 0;
+    }
+
+    .image-container {
+      max-width: 100%;
+      overflow: hidden;
+    }
+
+    .image-container img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    ul {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+      list-style-type: none;
+    }
+
+    li {
+      margin-bottom: 15px;
+      color: #333;
+    }
+
+    .spot-button {
+      display: block;
+      width: fit-content;
+      padding: 12px 24px;
+      margin: 20px auto;
+      font-size: 16px;
+      background-color: #1f2937;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+
+    .spot-button:hover {
+      background-color: #374151;
+    }
+
+      h1 {
+        font-size: 2.8rem;
+      }
+
+      .spot-button {
+        width: 10%;
+        font-size: 14px;
+      }
+
+      ul {
+        padding: 0 10px;
+      }
